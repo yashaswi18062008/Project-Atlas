@@ -1,1 +1,0 @@
-const buttonLabel = "Sign In";
